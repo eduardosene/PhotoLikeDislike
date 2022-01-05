@@ -1,0 +1,8 @@
+.photos {
+  display: flex;
+  justify-content: space-around;
+}
+
+.photo {
+  flex: 0 0 300px;
+}
